@@ -33,3 +33,8 @@ document.addEventListener("click", (event) => {
     }
   });
 });
+
+export const click = {
+  on,
+  off,
+};

@@ -1,6 +1,6 @@
 {
   "name": "@prof-dev/live-click",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper for live clicks events management",
   "main": "lib/LiveClick.js",
   "types": "lib/LiveClick.d.ts",
