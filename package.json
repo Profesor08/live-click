@@ -9,6 +9,9 @@
     "build": "tsc",
     "clean": "tsc --build --clean"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Profesor08/live-click.git"
