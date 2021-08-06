@@ -1,0 +1,25 @@
+{
+  "name": "@prof-dev/live-click",
+  "version": "1.0.0",
+  "description": "Helper for live clicks events management",
+  "main": "lib/LiveClick.js",
+  "types": "lib/LiveClick.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Profesor08/live-click.git"
+  },
+  "author": "Profesor08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Profesor08/live-click/issues"
+  },
+  "homepage": "https://github.com/Profesor08/live-click#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
